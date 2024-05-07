@@ -11,6 +11,37 @@ header nav{
     background-color: var(--azul);
 }
 
-#introducao{
+#introducao, #adote h4{
     color: var(--azul);
+}
+
+#catalogo h3, #catalogo h4{
+    color: var(--laranja);
+}
+
+#catalogo h5{
+    color: var(--verde);
+}
+
+#catalogo button{
+    background-color: var(--rosa);
+    border: none;
+    border-radius: 0%;
+    color: var(--preto);
+}
+
+#adote h3{
+    color: var(--rosa);
+}
+
+#adote button{
+    background-color: var(--azul);
+    border: none;
+    color: var(--preto);
+    padding: 5px 30px;
+}
+
+footer{
+    background-color: var(--azul);
+    padding: 20px;
 }
