@@ -30,6 +30,12 @@ header nav{
     color: var(--preto);
 }
 
+/* Outra forma de mudar a cor do botão pode-se uar=
+.btn-primary{} */
+
+/* Outra maneira tem também =
+.card-body button !important = sempre que colocar le vai priorizar */
+
 #adote h3{
     color: var(--rosa);
 }
@@ -43,5 +49,4 @@ header nav{
 
 footer{
     background-color: var(--azul);
-    padding: 20px;
 }
